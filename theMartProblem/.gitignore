@@ -1,0 +1,11 @@
+theMartProblem/__pycache__
+requirements.txt
+*.pyc
+*/__pycache__
+*/*/__pycache__
+*/migrations
+*/*/migrations
+*.pyc
+db.sqlite3
+theMartProblem/martApis/__pycache__/*
+*.log
