@@ -9,3 +9,4 @@ requirements.txt
 db.sqlite3
 theMartProblem/martApis/__pycache__/*
 *.log
+__init__.py
